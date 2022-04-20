@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |spec|
-  spec.name          = "jekyll-theme-clean-blog"
+  spec.name          = "n-tv-clean-blog"
   spec.version       = "4.0.12"
   spec.authors       = ["Start Bootstrap"]
   spec.email         = ["feedback@startbootstrap.com"]
