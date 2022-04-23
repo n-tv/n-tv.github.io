@@ -133,15 +133,15 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab19/index.m3u8|Referer=http://sct
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab20/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-chno="65" tvg-id="65" group-title="HTV" tvg-logo="https://n-tv.github.io/logo/htv/htv1.jpg",HTV1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/99.0.4844.51 Safari/537.36"
-https://api.vthanhtivii.xyz/v1/getlink/nethub?id=htv1&cl=1&b=2
+https://vips-livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="66" tvg-id="66" group-title="HTV" tvg-logo="https://n-tv.github.io/logo/htv/htv2.jpg",HTV2
 https://vips-livecdn.fptplay.net/hda1/htv2hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="67" tvg-id="67" group-title="HTV" tvg-logo="https://n-tv.github.io/logo/htv/htv3.jpg",HTV3
-https://api.vthanhtivii.xyz/v1/getlink/nethub?id=htv3-dreams-tv&cl=1&b=2
+https://vips-livecdn.fptplay.net/sdb/htv3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="68" tvg-id="68" group-title="HTV" tvg-logo="https://n-tv.github.io/logo/htv/htv4.jpg",HTV KEY • HTV4
-https://api.vthanhtivii.xyz/v1/getlink/nethub?id=htv4-key&cl=1&b=2
+https://vips-livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="69" tvg-id="69" group-title="HTV" tvg-logo="https://n-tv.github.io/logo/htv/htv7hd.jpg",HTV7 HD
-https://api.vthanhtivii.xyz/v1/getlink/nethub?id=htv7&cl=1&b=2
+https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="70" tvg-id="70" group-title="HTV" tvg-logo="https://n-tv.github.io/logo/htv/htv9hd.jpg",HTV9 HD
 https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="71" tvg-id="71" group-title="Thể thao" tvg-logo="https://n-tv.github.io/logo/htv/htvthethao.jpg",HTV THỂ THAO
@@ -159,7 +159,7 @@ https://vips-livecdn.fptplay.net/sdb/htvcplus_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="77" tvg-id="77" group-title="HTV" tvg-logo="https://n-tv.github.io/logo/htvc/htvccanhac.png",HTVC CA NHẠC
 https://vips-livecdn.fptplay.net/hda3/htvcmusic_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="78" tvg-id="78" group-title="Phim" tvg-logo="https://n-tv.github.io/logo/htvc/htvcthuanviethd.jpg",HTVC THUẦN VIỆT HD
-https://api.vthanhtivii.xyz/v1/getlink/nethub?id=htvc-thuan-viet-hd-1&cl=1&b=2
+https://vips-livecdn.fptplay.net/hda1/htvcthuanviethd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="79" tvg-id="79" group-title="HTV" tvg-logo="https://n-tv.github.io/logo/htvc/htvcthuanviet.jpg",HTVC THUẦN VIỆT
 https://vips-livecdn.fptplay.net/hda3/htvcthuanviet_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="80" tvg-id="80" group-title="Phim" tvg-logo="https://n-tv.github.io/logo/hbo/axn.png",AXN
