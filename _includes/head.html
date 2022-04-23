@@ -14,8 +14,8 @@
      <style type="text/css">
           /*<![CDATA[*/
           {% capture custom_css %}
-            {% include _main.scss %}
-            {% include _page.scss %}
+            {% include main.css %}
+            {% include page.css %}
           {% endcapture %}
           {{ custom_css | scssify }}
           /*]]>*/
@@ -24,8 +24,8 @@
       <style type="text/css">
          /*<![CDATA[*/
           {% capture custom_css %}
-            {% include _main.scss %}
-            {% include _home.scss %}
+            {% include main.css %}
+            {% include home.css %}
           {% endcapture %}
           {{ custom_css | scssify }}
         /*]]>*/
