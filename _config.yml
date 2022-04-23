@@ -1,20 +1,17 @@
 title:              NetTV
 email:              tri.vh15@gmail.com
-description:        A Blog Theme by Start Bootstrap
+description:        NetTV Blog
 author:             Lạc Trần
 baseurl:            ""
 url:                "https://n-tv.github.io"
-
 # Hồ sơ xã hội
 twitter_username:   
 github_username:    n-tv
 facebook_username:  
 instagram_username:  
 linkedin_username:
-
 # Thêm ID google-analytics của bạn tại đây để kích hoạt google analytics
 google_analytics:   UA-XXXXXXXXX-X # ra mã google-analytics của bạn
-
 # Xây dựng cài đặt
 markdown:           kramdown
 paginate:           5
