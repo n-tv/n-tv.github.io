@@ -20,3 +20,6 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap ## Bỏ ghi chú dòng này để âm thầm tạo một sơ đồ trang web tuân thủ sitemaps.org cho trang web Jekyll của bạn
+sass:
+    sass_dir: _sass
+    style: compressed
