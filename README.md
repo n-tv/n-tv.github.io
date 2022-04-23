@@ -7,7 +7,7 @@ This repository holds the official Jekyll version of the Clean Blog theme on Sta
 
 ## Preview
 
-[![Clean Blog (Jekyll) Preview](https://n-tv.github.io/screenshot.png)](http://StartBootstrap.github.io/startbootstrap-clean-blog-jekyll/)
+[![Clean Blog (Jekyll) Preview](https://n-tv.github.io/screenshot.png)](https://n-tv.github.io)
 
 **[View Live Preview](https://n-tv.github.io)**
 
