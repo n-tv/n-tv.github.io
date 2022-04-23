@@ -10,4 +10,25 @@
   <link rel="stylesheet" href="{{"/assets/css/main.css" | relative_url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
+  {% if page.layout != 'home' %}
+     <style type="text/css">
+          /*<![CDATA[*/
+          {% capture custom_css %}
+            {% include _main.scss %}
+            {% include _page.scss %}
+          {% endcapture %}
+          {{ custom_css | scssify }}
+          /*]]>*/
+      </style>
+{% else %}
+      <style type="text/css">
+         /*<![CDATA[*/
+          {% capture custom_css %}
+            {% include _main.scss %}
+            {% include _home.scss %}
+          {% endcapture %}
+          {{ custom_css | scssify }}
+        /*]]>*/
+    </style>
+{% endif %} 
 </head>
