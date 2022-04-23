@@ -1,10 +1,8 @@
-title:              NetTV
-email:              tri.vh15@gmail.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
-baseurl:            ""
-url:                "https://n-tv.github.io"
-
+title: NetTV
+email: tri.vh15@gmail.com
+description: NetTV
+baseurl: "" # đường dẫn con của trang web của bạn, ví dụ: /Blog
+url: "https://n-tv.github.io" # tên máy chủ và giao thức cơ sở cho trang web của bạn, ví dụ: http://example.com
 # Hồ sơ xã hội
 twitter_username:   
 github_username:    n-tv
@@ -12,14 +10,29 @@ facebook_username:
 instagram_username:  
 linkedin_username:
 
-# Thêm ID google-analytics của bạn tại đây để kích hoạt google analytics
-google_analytics:   UA-XXXXXXXXX-X # ra mã google-analytics của bạn
-
 # Xây dựng cài đặt
-markdown:           kramdown
-paginate:           5
-paginate_path:      "/posts/page:num/"
+theme: NetTV
 plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap ## Bỏ ghi chú dòng này để âm thầm tạo một sơ đồ trang web tuân thủ sitemaps.org cho trang web Jekyll của bạn
+
+# Loại trừ khỏi quá trình xử lý.
+# Các mục sau sẽ không được xử lý, theo mặc định.
+# Bất kỳ mục nào được liệt kê trong khóa `loại trừ:` ở đây sẽ được tự động thêm vào
+# "danh sách mặc định" nội bộ.
+#
+# Các mục bị loại trừ có thể được xử lý bằng cách liệt kê rõ ràng các thư mục hoặc
+# đường dẫn tệp mục nhập của họ trong danh sách `bao gồm:`.
+#
+# loại trừ:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
