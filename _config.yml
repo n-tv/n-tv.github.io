@@ -1,14 +1,14 @@
 title:              NetTV
-email:              your-email@example.com
-description:        Home
+email:              hoanglong.vh87@outlook.com
+description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
-baseurl:            "/"
+baseurl:            ""
 url:                "https://n-tv.github.io"
 
 # Social Profiles
-twitter_username:   Bootstrap
+twitter_username:   
 github_username:    n-tv
-facebook_username:  n-tv
+facebook_username:  
 instagram_username:  
 linkedin_username:
 
@@ -18,7 +18,7 @@ google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 # Build settings
 markdown:           kramdown
 paginate:           5
-paginate_path:      "/posts/page:num/"
+paginate_path:      "/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
