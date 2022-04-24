@@ -24,13 +24,3 @@ plugins:
 sass:
     sass_dir: _sass
     style: compressed
-# html minify
-compress_html:
-  clippings: all
-  comments: ["<!-- ", " -->"]
-  endings: all
-  ignore:
-    envs: [local]
-  blanklines: false
-  profile: false
-  startings: all
