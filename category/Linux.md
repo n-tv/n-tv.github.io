@@ -1,5 +1,5 @@
 ---
 layout: category
-title: posts/linux
+title: Linux
 permalink: '/posts/linux'
 ---

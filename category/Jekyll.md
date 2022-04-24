@@ -1,5 +1,5 @@
 ---
 layout: category
-title: posts/jekyll
+title: Jekyll
 permalink: '/posts/jekyll'
 ---
