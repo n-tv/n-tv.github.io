@@ -10,5 +10,5 @@
   <link rel="stylesheet" href="{{"/assets/css/main.css" | relative_url }}">{% endif %}{% if page.url == "/404.html" %}<link rel="stylesheet" href="{{"/assets/css/404.css" | relative_url }}">{% endif %}
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
-{% if page.url == "/404.html" %}<meta http-equiv="refresh" content="5; url=/">{% endif %}
+  {% if page.url == "/404.html" %}<meta http-equiv="refresh" content="5; url=/">{% endif %}
 </head>
