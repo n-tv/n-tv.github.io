@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Jekyll
-background: '/img/posts/01.jpg'
+background: '/assets/img/posts/01.jpg'
 permalink: '/jekyll'
 ---

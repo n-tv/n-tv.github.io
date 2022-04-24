@@ -3,7 +3,7 @@ layout: post
 title: "How to setup categories in Jekyll"
 subtitle: "Creating categories in Clean Blog Jekyll with permalink"
 date: 2019-08-23
-background: '/img/posts/01.jpg'
+background: '/assets/img/posts/01.jpg'
 categories : Jekyll
 sitemap :
 changefreq : daily
@@ -196,7 +196,7 @@ layout: post
 title: "How to setup categories in Jekyll"
 subtitle: "Creating categories in Clean Blog Jekyll with permalink"
 date: 2019-08-23
-background: '/img/posts/01.jpg'
+background: '/assets/img/posts/01.jpg'
 categories : posts/jekyll
 sitemap :
 changefreq : daily
