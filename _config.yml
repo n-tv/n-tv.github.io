@@ -33,4 +33,4 @@ compress_html:
     envs: [local]
   blanklines: false
   profile: false
-  startings: [html, head, body]
+  startings: [html, head, body, footer, scripts]
