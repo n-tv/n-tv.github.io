@@ -6,14 +6,26 @@ layout: page
   
   {% assign category = page.category | default: page.title %}
   {% for post in site.categories[category] %}
-    <li>
-      <h3>
-        <a href="{{ site.baseurl }}{{ post.url }}">
-          {{ post.title }}
-        </a>
-        <small>{{ post.date | date_to_string }}</small>
-      </h3>
-    </li>
+    <article class="post-preview">
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        <h2 class="post-title">{{ post.title }}</h2>
+        {% if post.subtitle %}
+        <h3 class="post-subtitle">{{ post.subtitle }}</h3>
+        {% else %}
+        <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
+        {% endif %}
+      </a>
+      <p class="post-meta">Posted by
+        {% if post.author %}
+        {{ post.author }}
+        {% else %}
+        {{ site.author }}
+        {% endif %}
+        on {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}
+      </p>
+    </article>
+    <hr>
+
   {% endfor %}
   
 </ul>
