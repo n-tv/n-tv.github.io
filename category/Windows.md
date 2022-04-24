@@ -1,5 +1,5 @@
 ---
 layout: category
 title: Windows
-permalink: '/posts/windows'
+permalink: '/windows'
 ---
