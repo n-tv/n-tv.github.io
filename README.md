@@ -64,7 +64,7 @@ Assuming there are no errors and the site is building properly, follow these ste
     ---
     ```
 
-    For reference, look at the [demo repository](https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll) to see how the files are set up.
+    For reference, look at the [demo repository](https://github.com/n-tv/n-tv.github.io) to see how the files are set up.
 
 5. Add the form to the `contact.html` page. Add the following code to your `contact.html` page:
 
@@ -133,7 +133,7 @@ When using the core files, the demo images, posts, and pages are all included wi
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll/issues) here on GitHub!
+Have a bug or an issue with this template? [Open a new issue](https://github.com/n-tv/n-tv.github.io/issues) here on GitHub!
 
 ## About
 
@@ -152,4 +152,4 @@ Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework
 
 ## Copyright and License
 
-Copyright 2013-2021 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll/blob/master/LICENSE) license.
+Copyright 2013-2021 Start Bootstrap LLC. Code released under the [MIT](https://github.com/n-tv/n-tv.github.io/blob/main/LICENSE) license.
