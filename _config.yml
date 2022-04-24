@@ -1,5 +1,6 @@
 lang: vi
 locale: vi_VN
+timezone: Asia/Ho_Chi_Minh
 title:              NetTV
 email:              tri.vh15@gmail.com
 description:        NetTV Blog
