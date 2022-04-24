@@ -7,7 +7,7 @@ window.addEventListener('scroll', checkHeight)
 
 function checkHeight(){
   if(window.scrollY > 200) {
-    goTopBtn.style.display = "flex"
+    goTopBtn.style.display = "inline"
   } else {
     goTopBtn.style.display = "none"
   }
