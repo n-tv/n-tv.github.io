@@ -1,19 +1,19 @@
 $(function () {
   $('[data-toggle="tooltip"]').tooltip()
 })
-const scrolltotopn = document.querySelector('.scroll-to-top');
+const scrolltop = document.querySelector('.scroll-to-top');
 
 window.addEventListener('scroll', checkHeight)
 
 function checkHeight(){
   if(window.scrollY > 200) {
-    scrolltotopn.style.display = "inline"
+    scrolltop.style.display = "inline"
   } else {
-    scrolltotopn.style.display = "none"
+    scrolltop.style.display = "none"
   }
 }
 
-scrolltotopn.addEventListener('click', () => {
+scrolltop.addEventListener('click', () => {
   window.scrollTo({
     top: 0,
     behavior: "smooth"
