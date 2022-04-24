@@ -4,7 +4,7 @@ title: "How to setup categories in Jekyll"
 subtitle: "Creating categories in Clean Blog Jekyll with permalink"
 date: 2019-08-23
 background: '/img/posts/01.jpg'
-categories : posts/jekyll
+categories : Jekyll
 sitemap :
 changefreq : daily
 priority : 1.0
