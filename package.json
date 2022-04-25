@@ -1,0 +1,37 @@
+{
+    "title": "NetTV",
+    "name": "nettv-blog-jekyll",
+    "version": "4.0.12",
+    "description": "NetTV Blog.",
+    "keywords": [
+        "css",
+        "sass",
+        "html",
+        "responsive",
+        "theme",
+        "template"
+    ],
+    "homepage": "https://n-tv.github.io",
+    "bugs": {
+        "url": "https://github.com/n-tv/n-tv.github.io/issues",
+        "email": "tri.vh15@gmail.com"
+    },
+    "license": "MIT",
+    "author": "Lạc Trần",
+    "contributors": [
+        "David Miller (https://n-tv.github.io)"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/n-tv/n-tv.github.io.git"
+    },
+    "dependencies": {
+        "bootstrap": "4.6.0",
+        "font-awesome": "4.7.0",
+        "jquery": "3.6.0",
+        "startbootstrap-clean-blog": "5.1.0"
+    },
+    "devDependencies": {
+        "browser-sync": "2.26.14"
+    }
+}
