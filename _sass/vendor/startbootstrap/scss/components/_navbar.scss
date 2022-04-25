@@ -114,3 +114,65 @@
         }
     }
 }
+#site-category li a{
+    display:block;
+    font-weight:normal;
+    line-height:50px;
+    margin: 0px;
+    padding:0px 25px;
+    text-align:center;
+    text-decoration:none;
+    }
+  
+  #site-category a:hover{
+    background: rgb(71,71,71);
+    color:#FFFFFF;
+    text-decoration:none;
+    }
+  
+  #navbarResponsive li ul{
+    background: rgb(109,109,109);
+    display:none;
+    height:auto;
+    padding:0px;
+    margin:0px;
+    border:0px;
+    position:absolute;
+    width:200px;
+    z-index:200;
+    /*top:1em;
+    /*left:0;*/
+    }
+  
+  #navbarResponsive li:hover ul{
+    display:block;
+    }
+  
+  #navbarResponsive li li {
+    display:block;
+    float:none;
+    margin:0px;
+    padding:0px;
+    width:200px;
+    }
+  
+  #navbarResponsive li:hover li a{
+    background:none;
+    }
+  
+    #navbarResponsive li ul a{
+      display:block;
+      height:50px;
+      font-size:12px;
+      font-style:normal;
+      margin:0px;
+      padding:0px 10px 0px 20px;
+      text-align:left;
+      }
+  
+    #navbarResponsive li ul a:hover{
+      background: rgb(71,71,71);
+      border:0px;
+      color:#ffffff;
+      text-decoration:none;
+      }

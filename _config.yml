@@ -1,25 +1,26 @@
+timezone: Asia/Ho_Chi_Minh
 title:              NetTV
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
+email:              tri.vh15@gmail.com
+description:        NetTV Blog
 author:             Lạc Trần
 baseurl:            ""
 url:                "https://n-tv.github.io"
-
-# Social Profiles
-twitter_username:   n-tv
+# Hồ sơ xã hội
+twitter_username:   
 github_username:    n-tv
-facebook_username:  n-tv
+facebook_username:  
 instagram_username:  
 linkedin_username:
-
-# Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
-
-# Build settings
+# Thêm ID google-analytics của bạn tại đây để kích hoạt google analytics
+google_analytics:   UA-XXXXXXXXX-X # ra mã google-analytics của bạn
+# Xây dựng cài đặt
 markdown:           kramdown
 paginate:           5
 paginate_path:      "/posts/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
-  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+  - jekyll-sitemap ## Bỏ ghi chú dòng này để âm thầm tạo một sơ đồ trang web tuân thủ sitemaps.org cho trang web Jekyll của bạn
+sass:
+    sass_dir: _sass
+    style: compressed
