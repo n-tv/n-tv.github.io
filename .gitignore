@@ -6,4 +6,4 @@ node_modules
 Gemfile.lock
 *.gem
 .run.cmd
-.github-run.cmd
+.github.run.bat
