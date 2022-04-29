@@ -1,4 +1,7 @@
-timezone: Asia/Ho_Chi_Minh
+#theme: minima
+encoding:           UTF-8
+lang:               vi
+timezone:           Asia/Ho_Chi_Minh
 title:              NetTV
 email:              tri.vh15@gmail.com
 description:        NetTV Blog
