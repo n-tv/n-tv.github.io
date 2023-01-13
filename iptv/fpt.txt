@@ -304,9 +304,9 @@ https://live.thhp.vn/hls/thpplus/index.m3u8?1
 #EXTINF:-1 tvg-chno="151" tvg-id="151" group-title="TINH" tvg-logo="https://n-tv.github.io/logo/tinh/hanam.jpg",HÀ NAM
 https://vips-livecdn.fptplay.net/sda/hanam_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="152" tvg-id="152" group-title="TINH" tvg-logo="https://n-tv.github.io/logo/tinh/hanoi1.jpg",HÀ NỘI 1
-https://vips-livecdn.fptplay.net/sdc/hanoitv1_hls.smil/chunklist_b2500000.m3u8
+https://1028513096.vnns.net/tv1-abr/hntvlive/tv1_720p/chunks.m3u8
 #EXTINF:-1 tvg-chno="153" tvg-id="153" group-title="TINH" tvg-logo="https://n-tv.github.io/logo/tinh/hanoi2.jpg",HÀ NỘI 2
-https://vips-livecdn.fptplay.net/sdc/hanoitv2_hls.smil/chunklist_b2500000.m3u8
+https://1028513096.vnns.net/tv2-abr/hntvlive/tv2_720p/chunks.m3u8
 #EXTINF:-1 tvg-chno="154" tvg-id="154" group-title="TINH" tvg-logo="https://n-tv.github.io/logo/tinh/hitv.jpg",HÀ NỘI CAB 1
 https://api.vthanhtivii.xyz/v1/getlink/tv360/32/0?t=a.m3u8
 #EXTINF:-1 tvg-chno="155" tvg-id="155" group-title="TINH" tvg-logo="https://n-tv.github.io/logo/tinh/youtv.jpg",HÀ NỘI CAB 2
