@@ -9,3 +9,4 @@ Gemfile.lock
 .install.bat
 .github.run.bat
 .webrick.bat
+cmd.exe
