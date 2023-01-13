@@ -54,12 +54,12 @@
 	<desc lang="vi">Chương Trình Tiếp Theo</desc>
 </programme>
   <channel id="6">
-    <display-name lang="vi">VTV6</display-name>
+    <display-name lang="vi">VTV Cần Thơ</display-name>
     <display-number>6</display-number>
     <icon src="https://n-tv.github.io/logo/vtv/vtv6.jpg"/>
   </channel>
 <programme channel="6" start="20230113000000 +0700" stop="20231230000000 +0700">
-    <title lang="vi">VTV6</title>
+    <title lang="vi">VTV Cần Thơ</title>
 	<desc lang="vi">Chương Trình Tiếp Theo</desc>
 </programme>
   <channel id="7">
