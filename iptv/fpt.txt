@@ -29,7 +29,7 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv2/s1/index.m3u8|Referer=http:/
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv3/s1/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-chno="14" tvg-id="14" group-title="SCTV" tvg-logo="https://n-tv.github.io/logo/sctv/sctv4.jpg",SCTV4
 https://vtsstr4.tv24.vn/live/SCTV_HD_GiaiTri_new.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="15" tvg-id="15" group-title="TINH" tvg-logo="https://n-tv.github.io/logo/tinh/vtvnb.png",VTV5 TÂY NAM BỘ
+#EXTINF:-1 tvg-chno="15" tvg-id="15" group-title="TINH" tvg-logo="https://n-tv.github.io/logo/vtv/vtvnb.png",VTV5 TÂY NAM BỘ
 https://api.vthanhtivi.pw/v2/getlink/mytv/615/hd.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-id="16" group-title="SCTV" tvg-logo="https://n-tv.github.io/logo/sctv/sctv6.jpg",SCTV6
 https://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b2500000.m3u8

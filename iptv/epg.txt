@@ -137,7 +137,7 @@
   <channel id="15">
     <display-name lang="vi">VTV5 TÂY NAM BỘ</display-name>
     <display-number>15</display-number>
-    <icon src="https://n-tv.github.io/logo/tinh/vtvnb.png"/>
+    <icon src="https://n-tv.github.io/logo/vtv/vtvnb.png"/>
   </channel>
 <programme channel="15" start="20230113000000 +0700" stop="20231230000000 +0700">
     <title lang="vi">VTV5 TÂY NAM BỘ</title>
