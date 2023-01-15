@@ -103,7 +103,7 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8|Referer=http://sctv
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-chno="50" tvg-id="50" group-title="Thể thao" tvg-logo="https://n-tv.github.io/logo/vtvcab/vtvcab3.jpg",ON SPORTS
 https://e1.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-chno="51" tvg-id="51" group-title="VTVcab" tvg-logo="https://n-tv.github.io/logo/vtvcab/vtvcab4.jpg",VTVcab4
+#EXTINF:-1 tvg-chno="51" tvg-id="51" group-title="VTVcab" tvg-logo="https://n-tv.github.io/logo/vtvcab/ON%20MOVIES.png",ON MOVIS
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab4/sd1/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-chno="52" tvg-id="52" group-title="VTVcab" tvg-logo="https://n-tv.github.io/logo/vtvcab/vtvcab5.jpg",E CHANNEL
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab5/index.m3u8|Referer=http://sctvonline.vn/

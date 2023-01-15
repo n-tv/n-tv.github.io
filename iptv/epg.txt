@@ -225,12 +225,12 @@
 	<desc lang="vi">Chương Trình Tiếp Theo</desc>
 </programme>
   <channel id="25">
-    <display-name lang="vi">SCTV15 • S SPORT2</display-name>
+    <display-name lang="vi">SCTV15  S SPORT2</display-name>
     <display-number>25</display-number>
     <icon src="https://n-tv.github.io/logo/sctv/sctv15.png"/>
   </channel>
 <programme channel="25" start="20230113000000 +0700" stop="20231230000000 +0700">
-    <title lang="vi">SCTV15 • S SPORT2</title>
+    <title lang="vi">SCTV15  S SPORT2</title>
 	<desc lang="vi">Chương Trình Tiếp Theo</desc>
 </programme>
   <channel id="26">
@@ -243,12 +243,12 @@
 	<desc lang="vi">Chương Trình Tiếp Theo</desc>
 </programme>
   <channel id="27">
-    <display-name lang="vi">SCTV17 • S SPORT</display-name>
+    <display-name lang="vi">SCTV17  S SPORT</display-name>
     <display-number>27</display-number>
     <icon src="https://n-tv.github.io/logo/sctv/sctv17.png"/>
   </channel>
 <programme channel="27" start="20230113000000 +0700" stop="20231230000000 +0700">
-    <title lang="vi">SCTV17 • S SPORT</title>
+    <title lang="vi">SCTV17  S SPORT</title>
 	<desc lang="vi">Chương Trình Tiếp Theo</desc>
 </programme>
   <channel id="28">
@@ -288,12 +288,12 @@
 	<desc lang="vi">Chương Trình Tiếp Theo</desc>
 </programme>
   <channel id="32">
-    <display-name lang="vi">SCTV22 • S SPORT1</display-name>
+    <display-name lang="vi">SCTV22  S SPORT1</display-name>
     <display-number>32</display-number>
     <icon src="https://n-tv.github.io/logo/sctv/sctv22.jpg"/>
   </channel>
 <programme channel="32" start="20230113000000 +0700" stop="20231230000000 +0700">
-    <title lang="vi">SCTV22 • S SPORT1</title>
+    <title lang="vi">SCTV22  S SPORT1</title>
 	<desc lang="vi">Chương Trình Tiếp Theo</desc>
 </programme>
   <channel id="33">
@@ -459,12 +459,12 @@
 	<desc lang="vi">Chương Trình Tiếp Theo</desc>
 </programme>
   <channel id="51">
-    <display-name lang="vi">VTVcab4</display-name>
+    <display-name lang="vi">ON MOVIES</display-name>
     <display-number>51</display-number>
-    <icon src="https://n-tv.github.io/logo/vtvcab/vtvcab4.jpg"/>
+    <icon src="https://n-tv.github.io/logo/vtvcab/ON%20MOVIES.png"/>
   </channel>
 <programme channel="51" start="20230113000000 +0700" stop="20231230000000 +0700">
-    <title lang="vi">VTVcab4</title>
+    <title lang="vi">ON MOVIES</title>
 	<desc lang="vi">Chương Trình Tiếp Theo</desc>
 </programme>
   <channel id="52">
@@ -612,12 +612,12 @@
 	<desc lang="vi">Chương Trình Tiếp Theo</desc>
 </programme>
   <channel id="68">
-    <display-name lang="vi">HTV KEY • HTV4</display-name>
+    <display-name lang="vi">HTV KEY  HTV4</display-name>
     <display-number>68</display-number>
     <icon src="https://n-tv.github.io/logo/htv/htv4.jpg"/>
   </channel>
 <programme channel="68" start="20230113000000 +0700" stop="20231230000000 +0700">
-    <title lang="vi">HTV KEY • HTV4</title>
+    <title lang="vi">HTV KEY  HTV4</title>
 	<desc lang="vi">Chương Trình Tiếp Theo</desc>
 </programme>
   <channel id="69">
