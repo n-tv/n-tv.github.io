@@ -62,7 +62,7 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv19/s1/index.m3u8|Referer=http:
 #EXTINF:-1 tvg-chno="30" tvg-id="30" group-title="SCTV" tvg-logo="https://n-tv.github.io/logo/sctv/sctv20.jpg",SCTV20
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv20/s1/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-chno="31" tvg-id="31" group-title="SCTV" tvg-logo="https://n-tv.github.io/logo/sctv/sctv21.jpg",SCTV21
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/s1/index.m3u8|Referer=http://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v1/e1.endpoint.cdn.sctvonline.vn/channel/sctv21/s1/index.m3u8
 #EXTINF:-1 tvg-chno="32" tvg-id="32" group-title="Thể thao" tvg-logo="https://n-tv.github.io/logo/sctv/sctv22.jpg",SCTV22  S SPORT1
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/s1/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-chno="33" tvg-id="33" group-title="VTC" tvg-logo="https://n-tv.github.io/logo/vtc/vtc1.jpg",VTC1
