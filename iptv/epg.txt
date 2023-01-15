@@ -54,12 +54,12 @@
 	<desc lang="vi">Chương Trình Tiếp Theo</desc>
 </programme>
   <channel id="6">
-    <display-name lang="vi">VTV Cần Thơ</display-name>
+    <display-name lang="vi">VTV CẦN THƠ</display-name>
     <display-number>6</display-number>
     <icon src="https://n-tv.github.io/logo/vtv/vtv6.jpg"/>
   </channel>
 <programme channel="6" start="20230113000000 +0700" stop="20231230000000 +0700">
-    <title lang="vi">VTV Cần Thơ</title>
+    <title lang="vi">VTV CẦN THƠ</title>
 	<desc lang="vi">Chương Trình Tiếp Theo</desc>
 </programme>
   <channel id="7">
@@ -135,12 +135,12 @@
 	<desc lang="vi">Chương Trình Tiếp Theo</desc>
 </programme>
   <channel id="15">
-    <display-name lang="vi">AN NINH THẾ GIỚI</display-name>
+    <display-name lang="vi">VTV5 TÂY NAM BỘ</display-name>
     <display-number>15</display-number>
     <icon src="https://n-tv.github.io/logo/quochoi/antg.jpg"/>
   </channel>
 <programme channel="15" start="20230113000000 +0700" stop="20231230000000 +0700">
-    <title lang="vi">AN NINH THẾ GIỚI</title>
+    <title lang="vi">VTV5 TÂY NAM BỘ</title>
 	<desc lang="vi">Chương Trình Tiếp Theo</desc>
 </programme>
   <channel id="16">
