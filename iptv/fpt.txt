@@ -387,9 +387,9 @@ https://vips-livecdn.fptplay.net/sdc/vinhphuc_hls.smil/chunklist_b2500000.m3u8
 https://vips-livecdn.fptplay.net/sdc/yenbai_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="193" tvg-id="193" group-title="TINH" tvg-logo="https://n-tv.github.io/logo/tinh/mov.png",MOV
 https://api.vthanhtivii.xyz/v1/getlink/tv360/30/0?t=a.m3u8
-#EXTINF:-1 tvg-chno="194" tvg-id="194" group-title="TINH" tvg-logo="https://n-tv.github.io/logo/tinh/vtvnb.png",VTV5 TÂY NAM BỘ
+#EXTINF:-1 tvg-chno="194" tvg-id="194" group-title="TINH" tvg-logo="https://n-tv.github.io/logo/vtv/vtvnb.png",VTV5 TÂY NAM BỘ
 https://api.vthanhtivi.pw/v2/getlink/mytv/615/hd.m3u8
-#EXTINF:-1 tvg-chno="195" tvg-id="195" group-title="TINH" tvg-logo="https://n-tv.github.io/logo/tinh/vtvtn.png",VTV5 TÂY NGUYÊN
+#EXTINF:-1 tvg-chno="195" tvg-id="195" group-title="TINH" tvg-logo="https://n-tv.github.io/logo/vtv/vtvtn.png",VTV5 TÂY NGUYÊN
 https://api.vthanhtivi.pw/v2/getlink/vtv/vtv5tn/playlist.m3u8
 #EXTINF:-1 tvg-chno="196" tvg-id="196" group-title="VIE" tvg-logo="https://n-tv.github.io/logo/quochoi/antv.jpg",AN NINH TV
 https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b2500000.m3u8
