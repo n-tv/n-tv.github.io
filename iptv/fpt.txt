@@ -58,9 +58,10 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv17/s1/index.m3u8|Referer=http:
 #EXTINF:-1 tvg-chno="28" tvg-id="28" group-title="SCTV" tvg-logo="https://n-tv.github.io/logo/sctv/sctv18.jpg",SCTV18
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv18/s1/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-chno="29" tvg-id="29" group-title="SCTV" tvg-logo="https://n-tv.github.io/logo/sctv/sctv19.jpg",SCTV19
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv19/s1/index.m3u8|Referer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv19/s1/index.m3u8
 #EXTINF:-1 tvg-chno="30" tvg-id="30" group-title="SCTV" tvg-logo="https://n-tv.github.io/logo/sctv/sctv20.jpg",SCTV20
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv20/s1/index.m3u8|Referer=http://sctvonline.vn/
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv20/s1/index.m3u8
 #EXTINF:-1 tvg-chno="31" tvg-id="31" group-title="SCTV" tvg-logo="https://n-tv.github.io/logo/sctv/sctv21.jpg",SCTV21
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv21/index.m3u8
