@@ -71,22 +71,22 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv15/s1/index.m3u8
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/s1/index.m3u8
 #EXTINF:-1 tvg-chno="27" tvg-id="27" group-title="Thể thao" tvg-logo="https://n-tv.github.io/logo/sctv/sctv17.png",SCTV17 S SPORT
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv17/index.m3u8
+https://vtsstr4.tv24.vn/live/SCTV17_HD_new.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="28" tvg-id="28" group-title="SCTV" tvg-logo="https://n-tv.github.io/logo/sctv/sctv18.jpg",SCTV18
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv18/s1/index.m3u8
+https://vtsstr4.tv24.vn/live/SCTV18_HD_new.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="29" tvg-id="29" group-title="SCTV" tvg-logo="https://n-tv.github.io/logo/sctv/sctv19.jpg",SCTV19
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv19/s1/index.m3u8
+https://vtsstr4.tv24.vn/live/SCTV19_HD_new.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="30" tvg-id="30" group-title="SCTV" tvg-logo="https://n-tv.github.io/logo/sctv/sctv20.jpg",SCTV20
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv20/s1/index.m3u8
+https://vtsstr4.tv24.vn/live/SCTV20_HD_new.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="31" tvg-id="31" group-title="SCTV" tvg-logo="https://n-tv.github.io/logo/sctv/sctv21.jpg",SCTV21
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv21/index.m3u8
 #EXTINF:-1 tvg-chno="32" tvg-id="32" group-title="Thể thao" tvg-logo="https://n-tv.github.io/logo/sctv/sctv22.jpg",SCTV22 S SPORT1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/s1/index.m3u8
+https://vtsstr4.tv24.vn/live/SCTV22_HD_new.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="33" tvg-id="33" group-title="VTC" tvg-logo="https://n-tv.github.io/logo/vtc/vtc1.jpg",VTC1
 https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="34" tvg-id="34" group-title="VTC" tvg-logo="https://n-tv.github.io/logo/vtc/vtc2.png",VTC2
