@@ -53,16 +53,16 @@ https://vtsstr4.tv24.vn/live/SCTV_HD_PhimChauA_new.smil/playlist.m3u8
 https://e2.endpoint.cdn.sctvonline.vn/hls/btv5/sd1/index.m3u8
 #EXTINF:-1 tvg-chno="21" tvg-id="21" group-title="SCTV" tvg-logo="https://n-tv.github.io/logo/sctv/sctv11.jpg",SCTV11
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv11/s1/index.m3u8
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv11/s2/index.m3u8
 #EXTINF:-1 tvg-chno="22" tvg-id="22" group-title="SCTV" tvg-logo="https://n-tv.github.io/logo/sctv/sctv12.jpg",SCTV12
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv12/s1/index.m3u8
 #EXTINF:-1 tvg-chno="23" tvg-id="23" group-title="SCTV" tvg-logo="https://n-tv.github.io/logo/sctv/sctv13.jpg",SCTV13
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv13/s1/index.m3u8
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv13/s2/index.m3u8
 #EXTINF:-1 tvg-chno="24" tvg-id="24" group-title="SCTV" tvg-logo="https://n-tv.github.io/logo/sctv/sctv14.jpg",SCTV14
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv14/s1/index.m3u8
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv14/s2/index.m3u8
 #EXTINF:-1 tvg-chno="25" tvg-id="25" group-title="Thể thao" tvg-logo="https://n-tv.github.io/logo/sctv/sctv15.png",SCTV15 S SPORT2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv15/s1/index.m3u8
