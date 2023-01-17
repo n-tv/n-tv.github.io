@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://n-tv.github.io/tv/epg.txt" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
-#EXTINF:-1 tvg-chno="0" tvg-id="0" group-title="VTV" tvg-logo="https://n-tv.github.io/tv/fpt-play.png",FPT
+#EXTINF:-1 tvg-chno="0" tvg-id="0" group-title="VTV" tvg-logo="https://n-tv.github.io/tv/fpt.png",FPT
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://livecdn.fptplay.net/hda1/f-channel1_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-id="1" group-title="VTV" tvg-logo="https://n-tv.github.io/logo/vtv/vtv1.jpg",VTV1

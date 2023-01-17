@@ -2,7 +2,7 @@
 <tv generator-info-name="văn Hận" generator-info-url="https://n-tv.github.io">
   <channel id="0">
     <display-name lang="vi">FPT</display-name>
-    <icon src="https://n-tv.github.io/logo/vtv/vtvnb.png"/>
+    <icon src="https://n-tv.github.io/tv/fpt.png"/>
   </channel>
 <programme channel="0" start="20230113000000 +0700" stop="20231230000000 +0700">
     <title lang="vi">FPT</title>
