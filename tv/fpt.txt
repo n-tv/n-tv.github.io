@@ -53,7 +53,7 @@ https://vtsstr4.tv24.vn/live/SCTV_HD_PhimChauA_new.smil/playlist.m3u8
 https://e2.endpoint.cdn.sctvonline.vn/hls/btv5/sd1/index.m3u8
 #EXTINF:-1 tvg-chno="21" tvg-id="21" group-title="SCTV" tvg-logo="https://n-tv.github.io/logo/sctv/sctv11.jpg",SCTV11
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://s6.edge.cdn.sctvonline.vn/cdn-cgi/edge/v1/e1.endpoint.cdn.sctvonline.vn/channel/sctv11_s2/index.m3u8
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv11/index.m3u8
 #EXTINF:-1 tvg-chno="22" tvg-id="22" group-title="SCTV" tvg-logo="https://n-tv.github.io/logo/sctv/sctv12.jpg",SCTV12
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv12/s1/index.m3u8
