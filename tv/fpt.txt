@@ -210,13 +210,13 @@ https://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="84" tvg-id="84" group-title="Phim" tvg-logo="https://n-tv.github.io/logo/hbo/cinemaworld.png",CINEMAWORLD
 https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="85" tvg-id="85" group-title="Phim" tvg-logo="https://n-tv.github.io/logo/hbo/boxmovie1.jpg",BOX Movie¹
-https://vthanh.net/live/nethubitb/9328/playlist.m3u8
-#https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd1/index.m3u8
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd1/index.m3u8
 #EXTINF:-1 tvg-chno="86" tvg-id="86" group-title="Phim" tvg-logo="https://n-tv.github.io/logo/hbo/hollywoodclassics.jpg",HOLLYWOOD CLASSICS
-https://vthanh.net/live/nethubitb/9331/playlist.m3u8
-#https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd1/index.m3u8
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd1/index.m3u8
 #EXTINF:-1 tvg-chno="87" tvg-id="87" group-title="Phim" tvg-logo="https://n-tv.github.io/logo/hbo/boxhits.jpg",BOX HITS
-https://vthanh.net/live/nethubitb/9330/playlist.m3u8
+https://api.vthanhtivi.pw/v2/getlink/mytv/105/hd.m3u8
 #EXTINF:-1 tvg-chno="88" tvg-id="88" group-title="HBO" tvg-logo="https://n-tv.github.io/logo/hbo/kix.png",KIX TV
 https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="89" tvg-id="89" group-title="HBO" tvg-logo="https://n-tv.github.io/logo/hbo/happykids.jpg",HAPPY KIDS
