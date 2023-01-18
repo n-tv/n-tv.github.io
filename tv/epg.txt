@@ -443,7 +443,7 @@
   <channel id="49">
     <display-name lang="vi">ON PHIM VIỆT</display-name>
     <display-number>49</display-number>
-    <icon src="https://n-tv.github.io/logo/vtvcab/vtvcab2.jpg"/>
+    <icon src="https://n-tv.github.io/logo/vtvcab/on-phimviet.jpg"/>
   </channel>
 <programme channel="49" start="20230113000000 +0700" stop="20231230000000 +0700">
     <title lang="vi">ON PHIM VIỆT</title>
@@ -452,7 +452,7 @@
   <channel id="50">
     <display-name lang="vi">ON SPORTS</display-name>
     <display-number>50</display-number>
-    <icon src="https://n-tv.github.io/logo/vtvcab/vtvcab3.jpg"/>
+    <icon src="https://n-tv.github.io/logo/vtvcab/on-sports.jpg"/>
   </channel>
 <programme channel="50" start="20230113000000 +0700" stop="20231230000000 +0700">
     <title lang="vi">ON SPORTS</title>
@@ -461,7 +461,7 @@
   <channel id="51">
     <display-name lang="vi">ON MOVIES</display-name>
     <display-number>51</display-number>
-    <icon src="https://n-tv.github.io/logo/vtvcab/ON%20MOVIES.png"/>
+    <icon src="https://n-tv.github.io/logo/vtvcab/on-movies.jpg"/>
   </channel>
 <programme channel="51" start="20230113000000 +0700" stop="20231230000000 +0700">
     <title lang="vi">ON MOVIES</title>
@@ -479,28 +479,28 @@
   <channel id="53">
     <display-name lang="vi">ON SPORTS+</display-name>
     <display-number>53</display-number>
-    <icon src="https://n-tv.github.io/logo/vtvcab/vtvcab6.jpg"/>
+    <icon src="https://n-tv.github.io/logo/vtvcab/on-sports+.jpg"/>
   </channel>
 <programme channel="53" start="20230113000000 +0700" stop="20231230000000 +0700">
     <title lang="vi">ON SPORTS+</title>
 	<desc lang="vi">Chương Trình Tiếp Theo</desc>
 </programme>
   <channel id="54">
-    <display-name lang="vi">SỨC KHỎE VÀ CUỘC SỐNG</display-name>
+    <display-name lang="vi">ON O2TV</display-name>
     <display-number>54</display-number>
-    <icon src="https://n-tv.github.io/logo/vtvcab/vtvcab7.jpg"/>
+    <icon src="https://n-tv.github.io/logo/vtvcab/on-o2tv.jpg"/>
   </channel>
 <programme channel="54" start="20230113000000 +0700" stop="20231230000000 +0700">
-    <title lang="vi">SỨC KHỎE VÀ CUỘC SỐNG</title>
+    <title lang="vi">ON O2TV</title>
 	<desc lang="vi">Chương Trình Tiếp Theo</desc>
 </programme>
   <channel id="55">
-    <display-name lang="vi">BIBI</display-name>
+    <display-name lang="vi">ON BIBI</display-name>
     <display-number>55</display-number>
-    <icon src="https://n-tv.github.io/logo/vtvcab/vtvcab8.jpg"/>
+    <icon src="https://n-tv.github.io/logo/vtvcab/on-bibi.jpg"/>
   </channel>
 <programme channel="55" start="20230113000000 +0700" stop="20231230000000 +0700">
-    <title lang="vi">BIBI</title>
+    <title lang="vi">ON BIBI</title>
 	<desc lang="vi">Chương Trình Tiếp Theo</desc>
 </programme>
   <channel id="56">
@@ -531,18 +531,18 @@
 	<desc lang="vi">Chương Trình Tiếp Theo</desc>
 </programme>
   <channel id="59">
-    <display-name lang="vi">VTVcab15</display-name>
+    <display-name lang="vi">ON MUSIC</display-name>
     <display-number>59</display-number>
-    <icon src="https://n-tv.github.io/logo/vtvcab/vtvcab15.jpg"/>
+    <icon src="https://n-tv.github.io/logo/vtvcab/on-music.jpg"/>
   </channel>
 <programme channel="59" start="20230113000000 +0700" stop="20231230000000 +0700">
-    <title lang="vi">VTVcab15</title>
+    <title lang="vi">ON MUSIC</title>
 	<desc lang="vi">Chương Trình Tiếp Theo</desc>
 </programme>
   <channel id="60">
     <display-name lang="vi">ON FOOTBALL</display-name>
     <display-number>60</display-number>
-    <icon src="https://n-tv.github.io/logo/vtvcab/vtvcab16.jpg"/>
+    <icon src="https://n-tv.github.io/logo/vtvcab/on-football.jpg"/>
   </channel>
 <programme channel="60" start="20230113000000 +0700" stop="20231230000000 +0700">
     <title lang="vi">ON FOOTBALL</title>
@@ -560,7 +560,7 @@
   <channel id="62">
     <display-name lang="vi">ON SPORTS NEWS</display-name>
     <display-number>62</display-number>
-    <icon src="https://n-tv.github.io/logo/vtvcab/onsportsnews.png"/>
+    <icon src="https://n-tv.github.io/logo/vtvcab/onsportsnews.jpg"/>
   </channel>
 <programme channel="62" start="20230113000000 +0700" stop="20231230000000 +0700">
     <title lang="vi">ON SPORTS NEWS</title>
