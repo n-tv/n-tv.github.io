@@ -1272,7 +1272,7 @@
   <channel id="147">
     <display-name lang="vi">ĐỒNG THÁP 2</display-name>
     <display-number>147</display-number>
-    <icon src="https://n-tv.github.io/logo/tinh/dongthap2.ipg"/>
+    <icon src="https://n-tv.github.io/logo/tinh/dongthap2.jpg"/>
   </channel>
 <programme channel="147" start="20230118000000 +0700" stop="20241230000000 +0700">
     <title lang="vi">ĐỒNG THÁP 2</title>
@@ -1731,7 +1731,7 @@
   <channel id="198">
     <display-name lang="vi">THÁI NGUYÊN 2</display-name>
     <display-number>198</display-number>
-    <icon src="https://n-tv.github.io/logo/tinh/thainguyen2.ipg"/>
+    <icon src="https://n-tv.github.io/logo/tinh/thainguyen2.jpg"/>
   </channel>
 <programme channel="198" start="20230118000000 +0700" stop="20241230000000 +0700">
     <title lang="vi">THÁI NGUYÊN 2</title>
