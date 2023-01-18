@@ -384,14 +384,14 @@ https://vips-livecdn.fptplay.net/sdc/haiduong_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="158" tvg-id="158" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/haiphong.jpg",HẢI PHÒNG
 https://vips-livecdn.fptplay.net/sdc/haiphong_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="159" tvg-id="159" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/haiphong.jpg",HẢI PHÒNG PLUS
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://live.thhp.vn/hls/thpplus/index.m3u8
 #EXTINF:-1 tvg-chno="160" tvg-id="160" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/hanam.jpg",HÀ NAM
 https://vips-livecdn.fptplay.net/sda/hanam_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="161" tvg-id="161" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/hanoi1.jpg",HÀ NỘI 1
 https://api.vthanhtivi.pw/v2/getlink/tv360/33/2.m3u8
 #EXTINF:-1 tvg-chno="162" tvg-id="162" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/hanoi2.jpg",HÀ NỘI 2
-https://1028513096.vnns.net/tv2-abr/hntvlive/tv2_480p/chunks.m3u8
+https://api.vthanhtivi.pw/v2/getlink/nethubtv/3691/1.m3u8
 #EXTINF:-1 tvg-chno="163" tvg-id="163" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/hitv.jpg",HÀ NỘI CAB 1
 https://api.vthanhtivi.pw/v2/getlink/tv360/32/2.m3u8
 #EXTINF:-1 tvg-chno="164" tvg-id="164" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/youtv.jpg",HÀ NỘI CAB 2
