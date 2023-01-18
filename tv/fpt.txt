@@ -460,7 +460,8 @@ https://vips-livecdn.fptplay.net/sda/tayninhhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="195" tvg-id="195" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/thaibinh.jpg",THÁI BÌNH
 https://vips-livecdn.fptplay.net/sda/thaibinh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="196" tvg-id="196" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/thainguyen1.jpg",THÁI NGUYÊN 1
-https://vips-livecdn.fptplay.net/sdc/thainguyen_hls.smil/chunklist_b2500000.m3u8
+#https://vips-livecdn.fptplay.net/sdc/thainguyen_hls.smil/chunklist_b2500000.m3u8
+https://api.vthanhtivi.pw/v2/getlink/nethubtv/3696/1.m3u8
 #EXTINF:-1 tvg-chno="197" tvg-id="197" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/thainguyen2.jpg",THÁI NGUYÊN 2
 https://api.vthanhtivi.pw/v2/getlink/nethubtv/5969/1.m3u8
 #EXTINF:-1 tvg-chno="198" tvg-id="198" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/thanhhoa.jpg",THANH HÓA
