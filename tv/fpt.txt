@@ -258,6 +258,18 @@ https://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b2500000.m3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.vthanhtivi.pw/v2/getlink/cliptv/838/chunklist_b5128000.m3u8
 
+#EXTINF:-1 tvg-chno="107" tvg-id="107" group-title="K+" tvg-logo="https://n-tv.github.io/logo/k/kcinehd.jpg",K+ CINE
+https://longpt.net/vtvcabon/k-plus-1.m3u8
+#EXTINF:-1 tvg-chno="108" tvg-id="108" group-title="K+" tvg-logo="https://n-tv.github.io/logo/k/klifehd.jpg", K+LIFE
+https://longpt.net/vtvcabon/k-plus-ns.m3u8
+#EXTINF:-1 tvg-chno="109" tvg-id="109" group-title="K+" tvg-logo="https://n-tv.github.io/logo/k/ksport1hd.jpg",K+ SPORT1
+https://longpt.net/vtvcabon/k-plus-pm.m3u8
+#EXTINF:-1 tvg-chno="110" tvg-id="110" group-title="K+" tvg-logo="https://n-tv.github.io/logo/k/ksport2hd.jpg",K+ SPORT2
+https://longpt.net/vtvcabon/k-plus-pc.m3u8
+#EXTINF:-1 tvg-chno="111" tvg-id="111" group-title="K+" tvg-logo="https://n-tv.github.io/logo/k/kkids.png", K+ Kids
+#https://longpt.net/vtvcabon/k-plus-kids.m3u8
+
+
 #EXTINF:-1 tvg-chno="111" tvg-id="111" group-title="TINH" tvg-logo="https://n-tv.github.io/logo/tinh/vinhlong1.jpg",VĨNH LONG 1
 https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="112" tvg-id="112" group-title="TINH" tvg-logo="https://n-tv.github.io/logo/tinh/vinhlong2.jpg",VĨNH LONG 2
