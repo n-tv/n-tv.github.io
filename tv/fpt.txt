@@ -384,8 +384,7 @@ https://vips-livecdn.fptplay.net/sdc/haiduong_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="158" tvg-id="158" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/haiphong.jpg",HẢI PHÒNG
 https://vips-livecdn.fptplay.net/sdc/haiphong_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="159" tvg-id="159" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/haiphong.jpg",HẢI PHÒNG PLUS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live.thhp.vn/hls/thpplus/index.m3u8
+#https://live.thhp.vn/hls/thpplus/index.m3u8
 #EXTINF:-1 tvg-chno="160" tvg-id="160" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/hanam.jpg",HÀ NAM
 https://vips-livecdn.fptplay.net/sda/hanam_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="161" tvg-id="161" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/hanoi1.jpg",HÀ NỘI 1
