@@ -195,11 +195,11 @@ https://vips-livecdn.fptplay.net/sdb/htvcplus_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="77" tvg-id="77" group-title="HTV" tvg-logo="https://n-tv.github.io/logo/htvc/htvccanhac.png",HTVC CA NHẠC
 https://vips-livecdn.fptplay.net/hda3/htvcmusic_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="78" tvg-id="78" group-title="Phim" tvg-logo="https://n-tv.github.io/logo/htvc/htvcthuanviethd.jpg",HTVC THUẦN VIỆT HD
-https://vips-livecdn.fptplay.net/hda1/htvcthuanviethd_hls.smil/chunklist_b2500000.m3u8
+#https://vips-livecdn.fptplay.net/hda1/htvcthuanviethd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="79" tvg-id="79" group-title="HTV" tvg-logo="https://n-tv.github.io/logo/htvc/htvcthuanviet.jpg",HTVC THUẦN VIỆT
-https://vips-livecdn.fptplay.net/hda3/htvcthuanviet_vhls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-chno="80" tvg-id="80" group-title="Phim" tvg-logo="https://n-tv.github.io/logo/hbo/axn.png",AXN
+https://vips-livecdn.fptplay.net/hda1/htvcthuanviethd_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1 tvg-chno="80" tvg-id="80" group-title="Phim" tvg-logo="https://n-tv.github.io/logo/hbo/axn.png",AXN
 https://vips-livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="81" tvg-id="81" group-title="Phim" tvg-logo="https://n-tv.github.io/logo/hbo/hbo.png",HBO
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b2500000.m3u8
@@ -220,8 +220,8 @@ https://vthanh.net/live/nethubitb/9330/playlist.m3u8
 #EXTINF:-1 tvg-chno="88" tvg-id="88" group-title="HBO" tvg-logo="https://n-tv.github.io/logo/hbo/kix.png",KIX TV
 https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="89" tvg-id="89" group-title="HBO" tvg-logo="https://n-tv.github.io/logo/hbo/happykids.jpg",HAPPY KIDS
-https://vthanh.net/live/nethubitb/9337/playlist.m3u8
-#https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd1/index.m3u8
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd1/index.m3u8
 #EXTINF:-1 tvg-chno="90" tvg-id="90" group-title="HBO" tvg-logo="https://n-tv.github.io/logo/hbo/cartoon.png",CARTOON NETWORK
 https://vips-livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="91" tvg-id="91" group-title="HBO" tvg-logo="https://n-tv.github.io/logo/hbo/dreamworks.jpg",DREAMWORKS
@@ -243,7 +243,7 @@ https://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b2500000
 #EXTINF:-1 tvg-chno="99" tvg-id="99" group-title="HBO" tvg-logo="https://n-tv.github.io/logo/hbo/discovery.jpg",DISCOVERY CHANNEL
 https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="100" tvg-id="100" group-title="HBO" tvg-logo="https://n-tv.github.io/logo/hbo/planetearthhd.jpg",PLANET EARTH
-https://vthanh.net/live/nethubitb/9334/playlist.m3u8
+https://vtsstr7.tv24.vn/live/smil:Planet_Earth.smil/chunklist.m3u8
 #EXTINF:-1 tvg-chno="101" tvg-id="101" group-title="HBO" tvg-logo="https://n-tv.github.io/logo/hbo/ngwhd.jpg",NATIONAL GEOGRAPHIC WILD
 https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="102" tvg-id="102" group-title="HBO" tvg-logo="https://n-tv.github.io/logo/hbo/ngchd.jpg",NATIONAL GEOGRAPHIC
@@ -251,13 +251,14 @@ https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="103" tvg-id="103" group-title="HBO" tvg-logo="https://n-tv.github.io/logo/hbo/bbcearth.jpg",BBC EARTH
 https://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="104" tvg-id="104" group-title="HBO" tvg-logo="https://n-tv.github.io/logo/hbo/hgtv.jpg",HGTV
-https://api.vthanhtivii.xyz/v1/getlink/tv360/99/1?t=a.m3u8
+https://api.vthanhtivi.pw/v2/getlink/tv360/99/2.m3u8
 #EXTINF:-1 tvg-chno="105" tvg-id="105" group-title="HBO" tvg-logo="https://n-tv.github.io/logo/hbo/outdoor.jpg",OUTDOOR CHANNEL
 https://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="106" tvg-id="106" group-title="Phim" tvg-logo="https://n-tv.github.io/logo/hbo/inthebox.jpg",IN THE BOX
-http://cdn.socolacdn.online/inthebox/index.m3u8
-#EXTINF:-1 tvg-chno="111" tvg-id="111" group-title="TINH" tvg-logo="https://n-tv.github.io/logo/tinh/vinhlong1.jpg",VĨNH LONG 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.vthanhtivi.pw/v2/getlink/cliptv/838/chunklist_b5128000.m3u8
 
+#EXTINF:-1 tvg-chno="111" tvg-id="111" group-title="TINH" tvg-logo="https://n-tv.github.io/logo/tinh/vinhlong1.jpg",VĨNH LONG 1
 https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="112" tvg-id="112" group-title="TINH" tvg-logo="https://n-tv.github.io/logo/tinh/vinhlong2.jpg",VĨNH LONG 2
 https://vips-livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b2500000.m3u8
@@ -431,7 +432,7 @@ https://api.vthanhtivi.pw/v2/getlink/vtv/vtv5tn/playlist.m3u8
 https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="197" tvg-id="197" group-title="VIE" tvg-logo="https://n-tv.github.io/logo/quochoi/nhandan.jpg",NHÂN DÂN TV
 https://vips-livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-chno="198" tvg-id="198" group-title="VIE" tvg-logo="https://n-tv.github.io/logo/quochoi/quochoi.png",QUỐC HỘI
+#EXTINF:-1 tvg-chno="198" tvg-id="198" group-title="VIE" tvg-logo="https://n-tv.github.io/logo/quochoi/quoc-hoi.png",QUỐC HỘI
 https://vips-livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="199" tvg-id="199" group-title="VIE" tvg-logo="https://n-tv.github.io/logo/quochoi/qpvn.jpg",QUỐC PHÒNG VIỆT NAM
 https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b2500000.m3u8

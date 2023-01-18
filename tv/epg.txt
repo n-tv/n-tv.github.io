@@ -1784,7 +1784,7 @@
   <channel id="198">
     <display-name lang="vi">QUỐC HỘI</display-name>
     <display-number>198</display-number>
-    <icon src="https://n-tv.github.io/logo/quochoi/quochoi.png"/>
+    <icon src="https://n-tv.github.io/logo/quochoi/quoc-hoi.png"/>
   </channel>
 <programme channel="198" start="20230113000000 +0700" stop="20231230000000 +0700">
     <title lang="vi">QUỐC HỘI</title>
