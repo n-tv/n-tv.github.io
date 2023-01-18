@@ -432,6 +432,15 @@
     <title lang="vi">VTC16</title>
 	<desc lang="vi">Chương Trình Tiếp Theo</desc>
 </programme>
+  <channel id="48">
+    <display-name lang="vi">VTV5 TÂY NGUYÊN</display-name>
+    <display-number>48</display-number>
+    <icon src="https://n-tv.github.io/logo/vtv/vtvtn.png"/>
+  </channel>
+<programme channel="48" start="20230118000000 +0700" stop="20241230000000 +0700">
+    <title lang="vi">VTV5 TÂY NGUYÊN</title>
+	<desc lang="vi">Chương Trình Tiếp Theo</desc>
+</programme>
   <channel id="51">
     <display-name lang="vi">VIE GIẢI TRÍ</display-name>
     <display-number>51</display-number>
@@ -1828,21 +1837,12 @@
 	<desc lang="vi">Chương Trình Tiếp Theo</desc>
 </programme>
   <channel id="209">
-    <display-name lang="vi">VTV5 TÂY NAM BỘ</display-name>
+    <display-name lang="vi">AN NINH THẾ GIỚI</display-name>
     <display-number>209</display-number>
-    <icon src="https://n-tv.github.io/logo/vtv/vtvnb.png"/>
+    <icon src="https://n-tv.github.io/logo/quochoi/antg.jpg"/>
   </channel>
 <programme channel="209" start="20230118000000 +0700" stop="20241230000000 +0700">
-    <title lang="vi">VTV5 TÂY NAM BỘ</title>
-	<desc lang="vi">Chương Trình Tiếp Theo</desc>
-</programme>
-  <channel id="210">
-    <display-name lang="vi">VTV5 TÂY NGUYÊN</display-name>
-    <display-number>210</display-number>
-    <icon src="https://n-tv.github.io/logo/vtv/vtvtn.png"/>
-  </channel>
-<programme channel="210" start="20230118000000 +0700" stop="20241230000000 +0700">
-    <title lang="vi">VTV5 TÂY NGUYÊN</title>
+    <title lang="vi">AN NINH THẾ GIỚI</title>
 	<desc lang="vi">Chương Trình Tiếp Theo</desc>
 </programme>
 </tv>
