@@ -356,7 +356,7 @@ https://vips-livecdn.fptplay.net/sda/caobang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="145" tvg-id="145" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/dongthap.jpg",ĐỒNG THÁP 1
 https://vips-livecdn.fptplay.net/sdc/dongthap_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="146" tvg-id="146" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/dongthap2.jpg",ĐỒNG THÁP 2
-http://202.43.109.145:1935/thdt2/thdt2/chunklist_w291828963.m3u8
+https://vips-livecdn.fptplay.net/sdc/dongthaphd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="147" tvg-id="147" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/dongnai1.jpg",ĐỒNG NAI 1
 https://vips-livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="148" tvg-id="148" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/dongnai2.jpg",ĐỒNG NAI 2
@@ -370,6 +370,7 @@ https://vips-livecdn.fptplay.net/sdc/dienbien_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="152" tvg-id="152" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/daklak.jpg",ĐẮK LẮK
 https://vips-livecdn.fptplay.net/sdc/daklak_hls.smil/chunklist_b2500000.m3u8 
 #EXTINF:-1 tvg-chno="153" tvg-id="153" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/daknong.jpg",ĐẮK NÔNG
+#https://16371213858134.vnns.net/daknong_abr/vtc130121/daknong-480p/chunks.m3u8
 https://api.vthanhtivi.pw/v2/getlink/tv360/50/2.m3u8
 #EXTINF:-1 tvg-chno="154" tvg-id="154" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/gialai.jpg",GIA LAI
 https://vips-livecdn.fptplay.net/sda/gialai_hls.smil/chunklist_b2500000.m3u8
@@ -382,7 +383,7 @@ https://vips-livecdn.fptplay.net/sdc/haiduong_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="158" tvg-id="158" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/haiphong.jpg",HẢI PHÒNG
 https://vips-livecdn.fptplay.net/sdc/haiphong_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="159" tvg-id="159" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/haiphong.jpg",HẢI PHÒNG PLUS
-https://live.thhp.vn/hls/thpplus/index.m3u8?1
+https://live.thhp.vn/hls/thpplus/index.m3u8
 #EXTINF:-1 tvg-chno="160" tvg-id="160" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/hanam.jpg",HÀ NAM
 https://vips-livecdn.fptplay.net/sda/hanam_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="161" tvg-id="161" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/hanoi1.jpg",HÀ NỘI 1
