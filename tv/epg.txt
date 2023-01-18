@@ -515,7 +515,7 @@
   <channel id="57">
     <display-name lang="vi">ON CINE</display-name>
     <display-number>57</display-number>
-    <icon src="https://n-tv.github.io/logo/vtvcab/vtvcab10.jpg"/>
+    <icon src="https://n-tv.github.io/logo/vtvcab/on-cine.jpg"/>
   </channel>
 <programme channel="57" start="20230113000000 +0700" stop="20231230000000 +0700">
     <title lang="vi">ON CINE</title>
@@ -560,7 +560,7 @@
   <channel id="62">
     <display-name lang="vi">ON SPORTS NEWS</display-name>
     <display-number>62</display-number>
-    <icon src="https://n-tv.github.io/logo/vtvcab/onsportsnews.jpg"/>
+    <icon src="https://n-tv.github.io/logo/vtvcab/on-sportsnews.jpg"/>
   </channel>
 <programme channel="62" start="20230113000000 +0700" stop="20231230000000 +0700">
     <title lang="vi">ON SPORTS NEWS</title>
