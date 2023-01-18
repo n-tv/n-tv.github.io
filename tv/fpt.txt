@@ -370,8 +370,8 @@ https://vips-livecdn.fptplay.net/sdc/dienbien_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="152" tvg-id="152" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/daklak.jpg",ĐẮK LẮK
 https://vips-livecdn.fptplay.net/sdc/daklak_hls.smil/chunklist_b2500000.m3u8 
 #EXTINF:-1 tvg-chno="153" tvg-id="153" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/daknong.jpg",ĐẮK NÔNG
-#https://16371213858134.vnns.net/daknong_abr/vtc130121/daknong-480p/chunks.m3u8
-https://api.vthanhtivi.pw/v2/getlink/tv360/50/2.m3u8
+https://16371213858134.vnns.net/daknong_abr/vtc130121/daknong-480p/chunks.m3u8
+#https://api.vthanhtivi.pw/v2/getlink/tv360/50/2.m3u8
 #EXTINF:-1 tvg-chno="154" tvg-id="154" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/gialai.jpg",GIA LAI
 https://vips-livecdn.fptplay.net/sda/gialai_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="155" tvg-id="155" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/haugiang.jpg",HẬU GIANG
@@ -404,7 +404,8 @@ https://vips-livecdn.fptplay.net/sdc/hue_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="168" tvg-id="168" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/hungyen.jpg",HƯNG YÊN
 https://vips-livecdn.fptplay.net/sdc/hungyen_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="169" tvg-id="169" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/kiengiang.jpg",KIÊN GIANG
-https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+#https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+https://vips-livecdn.fptplay.net/sda/kiengiang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="170" tvg-id="170" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/kiengiang1.jpg",KIÊN GIANG 1
 https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 tvg-chno="171" tvg-id="171" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/khanhhoa.jpg",KHÁNH HÒA
