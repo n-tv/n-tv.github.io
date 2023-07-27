@@ -1,3 +1,11 @@
-#EXTM3U
+#EXTM3U url-tvg="https://n-tv.github.io/tv/epg.txt" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
+#EXTINF:-1 tvg-chno="121" tvg-id="121" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/vinhlong1.jpg",VĨNH LONG 1
+https://vips-livecdn.fptplay.net/hls/thvl1/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-chno="122" tvg-id="122" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/vinhlong2.jpg",VĨNH LONG 2
+https://e2.endpoint.cdn.sctvonline.vn/hls/thhaugiang/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-chno="123" tvg-id="123" group-title="Phim" tvg-logo="https://n-tv.github.io/logo/tinh/vinhlong3.jpg",VĨNH LONG 3
+https://vips-livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-chno="124" tvg-id="124" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/vinhlong4.png",VĨNH LONG 4
+https://vips-livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="155" tvg-id="155" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/haugiang.jpg",HẬU GIANG
 https://e3.endpoint.cdn.sctvonline.vn/hls/thhaugiang/index.m3u8|Referer=http://sctvonline.vn/
