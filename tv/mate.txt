@@ -131,7 +131,7 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/index.m3u8|Referer=http://s
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/index.m3u8|Referer=http://sctvonline.vn/
 #VTC
 #EXTINF:-1 tvg-chno="" tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://n-tv.github.io/logo/vtc/vtc1.jpg",VTC1
-https://live-zlr1.tv360.vn/manifest/VTC1_HD/playlist_720p.m3u8
+https://live-zlr1.tv360.vn/manifest/VTC1_HD/playlist_1080p.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="vtc2" group-title="VTC" tvg-logo="https://n-tv.github.io/logo/vtc/vtc2.png",VTC2
 https://code.vthanhtivi.pw/getlink/tv360/196/0.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="vtc3hd" group-title="Thể thao" tvg-logo="https://n-tv.github.io/logo/vtc/vtc3.png",VTC3
