@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 #VTV
 #EXTINF:-1 tvg-chno="" tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://n-tv.github.io/logo/vtv/vtv1.jpg",VTV1
-https://live-zlr1.tv360.vn/manifest/VTV1_HD/playlist_720p.m3u8
+https://live-zlr1.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://n-tv.github.io/logo/vtv/vtv2.jpg",VTV2
-https://live-ali4.tv360.vn/manifest/vtv2/playlist_720p.m3u8
+https://live-zlr1.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://n-tv.github.io/logo/vtv/vtv3.jpg",VTV3
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 Linux;Android 9 ExoPlayerLib/2.13.3
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv3/index.m3u8|Referer=http://sctvonline.vn/
@@ -13,7 +13,7 @@ https://code.vthanhtivi.pw/getlink/tv360/108/1.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 Linux;Android 9 ExoPlayerLib/2.13.3
 https://code.vthanhtivi.pw/getlink/vieon/vtv5-hd/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://n-tv.github.io/logo/vtv/vtv6.jpg",VTV CẦN THƠ
-https://live-zlr1.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
+https://live-zlr1.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://n-tv.github.io/logo/vtv/vtv7.png",VTV7
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 Linux;Android 9 ExoPlayerLib/2.13.3
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv7/index.m3u8|Referer=http://sctvonline.vn/
@@ -24,7 +24,7 @@ https://code.vthanhtivi.pw/getlink/vieon/vtv8-hd/playlist.m3u8
 https://code.vthanhtivi.pw/getlink/vieon/vtv9-hd/playlist.m3u8
 #ĐỊA PHƯƠNG
 #EXTINF:-1 tvg-chno="" tvg-id="vinhlong1hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/vinhlong1.jpg",VĨNH LONG 1
-http://live-ali2.tv360.vn/manifest/Vinh_Long_1_HD/playlist_720p.m3u8
+http://live-ali4.tv360.vn/manifest/Vinh_Long_1_HD/playlist_1080p.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="vinhlong2hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/vinhlong2.jpg",VĨNH LONG 2
 https://live-zlr1.tv360.vn/manifest/VinhLong2_HD/playlist_720p.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="vinhlong3hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/vinhlong3.jpg",VĨNH LONG 3
