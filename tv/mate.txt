@@ -202,13 +202,13 @@ https://code.antmediatv.xyz/getplay/6c7000750727bdec7de6ea1831b3f5efcd4a0e5cb87f
 https://code.antmediatv.xyz/getplay/6c7000750727bdec7de6ea1831b3f5efcd4a0e5cb87f534f54c88571da85a46d92/vieon2/vtvcab15/playlist.m3u8
 #EXTINF:-1 tvg-chno="63" tvg-id="63" group-title="VTVCAB" tvg-logo="https://n-tv.github.io/logo/vtvcab/on-football.jpg",ON FOOTBALL
 https://code.antmediatv.xyz/getplay/6c7000750727bdec7de6ea1831b3f5efcd4a0e5cb87f534f54c88571da85a46d92/onplus/BONGDA_HD/m30_index.m3u8
-#EXTINF:-1 tvg-chno="64" tvg-id="64" group-title="VTVCAB" tvg-logo="https://n-tv.github.io/logo/vtvcab/vtvcab17.jpg",YEAH1 TV
+#EXTINF:-1 tvg-chno="64" tvg-id="64" group-title="VTVCAB" tvg-logo="https://n-tv.github.io/logo/vtvcab/on-trending.jpg",ON TRENDING
 https://code.antmediatv.xyz/getplay/6c7000750727bdec7de6ea1831b3f5efcd4a0e5cb87f534f54c88571da85a46d92/onplus/YEAH1_TV/m30_index.m3u8
 #EXTINF:-1 tvg-chno="65" tvg-id="65" group-title="VTVCAB" tvg-logo="https://n-tv.github.io/logo/vtvcab/on-sportsnews.jpg",ON SPORTS NEWS 
 https://code.antmediatv.xyz/getplay/6c7000750727bdec7de6ea1831b3f5efcd4a0e5cb87f534f54c88571da85a46d92/onplus/THETHAO_TINTUC_HD/m40_index.m3u8
 #EXTINF:-1 tvg-chno="66" tvg-id="66" group-title="VTVCAB" tvg-logo="https://n-tv.github.io/logo/vtvcab/vtvcab19.jpg",VIE DRAMAS
 https://code.antmediatv.xyz/getplay/6c7000750727bdec7de6ea1831b3f5efcd4a0e5cb87f534f54c88571da85a46d92/mytv/201/hd.m3u8
-#EXTINF:-1 tvg-chno="67" tvg-id="67" group-title="VTVCAB" tvg-logo="https://n-tv.github.io/logo/vtvcab/vtvcab20.jpg",V FAMILY
+#EXTINF:-1 tvg-chno="67" tvg-id="67" group-title="VTVCAB" tvg-logo="https://n-tv.github.io/logo/vtvcab/on-vfamily.jpg",ON VFAMILY
 https://code.antmediatv.xyz/getplay/6c7000750727bdec7de6ea1831b3f5efcd4a0e5cb87f534f54c88571da85a46d92/onplus/VFAMILY/m20_index.m3u8
 #EXTINF:-1 tvg-chno="68" tvg-id="68" group-title="VTVCAB" tvg-logo="https://n-tv.github.io/logo/vtvcab/on-kids.jpg", ON KIDS
 https://live-ali2.tv360.vn/manifest/VTVCab21/playlist_1080p.m3u8
