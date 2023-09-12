@@ -50,8 +50,6 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HAUGIANG-SD-ABR/HTV-ABR/HAUGIANG-SD-7
 #https://60acee235f4d5.streamlock.net/HGTV/d1/playlist.m3u8
 #EXTINF:-1 tvg-id="kiengiang1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/kiengiang.jpg",KIÊN GIANG
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/KIENGIANG-SD-ABR/HTV-ABR/KIENGIANG-SD-720p/chunks.m3u8
-#EXTINF:-1 tvg-id="196" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/thainguyen1.jpg",THÁI NGUYÊN 1
-https://streaming.thainguyentv.vn/hls/livestream.m3u8
 #HTV
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://n-tv.github.io/logo/htv/htv1.jpg",HTV1
 https://drm-livecdn.hplus.com.vn/htvonline/htv1.720p.nimble.tms/playlist.m3u8
