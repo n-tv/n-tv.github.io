@@ -51,7 +51,7 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HAUGIANG-SD-ABR/HTV-ABR/HAUGIANG-SD-7
 #EXTINF:-1 tvg-id="kiengiang1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/kiengiang.jpg",KIÊN GIANG
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/KIENGIANG-SD-ABR/HTV-ABR/KIENGIANG-SD-720p/chunks.m3u8
 #EXTINF:-1 tvg-id="196" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/thainguyen1.jpg",THÁI NGUYÊN 1
-https://ott4.nethubtv.vn/live/thainguyentv/chunklist_1.m3u8
+https://streaming.thainguyentv.vn/hls/livestream.m3u8
 #HTV
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://n-tv.github.io/logo/htv/htv1.jpg",HTV1
 https://drm-livecdn.hplus.com.vn/htvonline/htv1.720p.nimble.tms/playlist.m3u8
@@ -194,11 +194,11 @@ https://code.antmediatv.xyz/getplay/6c7000750727bdec7de6ea1831b3f5efcd4a0e5cb87f
 https://code.antmediatv.xyz/getplay/6c7000750727bdec7de6ea1831b3f5efcd4a0e5cb87f534f54c88571da85a46d92/vieon2/vtvcab7/playlist.m3u8
 #EXTINF:-1 tvg-chno="58" tvg-id="58" group-title="VTVCAB" tvg-logo="https://n-tv.github.io/logo/vtvcab/on-bibi.jpg",ON BIBI
 https://code.antmediatv.xyz/getplay/6c7000750727bdec7de6ea1831b3f5efcd4a0e5cb87f534f54c88571da85a46d92/vieon2/vtvcab8-bibi/playlist.m3u8
-#EXTINF:-1 tvg-chno="59" tvg-id="59" group-title="VTVCAB" tvg-logo="https://n-tv.github.io/logo/vtvcab/vtvcab9.jpg",INFO TV
+#EXTINF:-1 tvg-chno="59" tvg-id="59" group-title="VTVCAB" tvg-logo="https://n-tv.github.io/logo/vtvcab/on-info.jpg",ON INFO
 https://code.antmediatv.xyz/getplay/6c7000750727bdec7de6ea1831b3f5efcd4a0e5cb87f534f54c88571da85a46d92/vieon2/vtvcab9-info-tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="60" tvg-id="60" group-title="VTVCAB" tvg-logo="https://n-tv.github.io/logo/vtvcab/on-cine.jpg",ON CINE
 https://live-ali2.tv360.vn/manifest/VTVCab10_SPR/playlist_480p1p7.m3u8
-#EXTINF:-1 tvg-chno="61" tvg-id="61" group-title="VTVCAB" tvg-logo="https://n-tv.github.io/logo/vtvcab/vtvcab12.jpg",STYLE TV
+#EXTINF:-1 tvg-chno="61" tvg-id="61" group-title="VTVCAB" tvg-logo="https://n-tv.github.io/logo/vtvcab/on-style.jpg",ON STYLE
 https://code.antmediatv.xyz/getplay/6c7000750727bdec7de6ea1831b3f5efcd4a0e5cb87f534f54c88571da85a46d92/vieon2/vtvcab12-style-tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="62" tvg-id="62" group-title="VTVCAB" tvg-logo="https://n-tv.github.io/logo/vtvcab/on-music.jpg",ON MUSIC
 https://code.antmediatv.xyz/getplay/6c7000750727bdec7de6ea1831b3f5efcd4a0e5cb87f534f54c88571da85a46d92/vieon2/vtvcab15/playlist.m3u8
