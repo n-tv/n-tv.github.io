@@ -19,7 +19,7 @@ https://live.canthotv.vn/live/tv_web/playlist.m3u8
 #EXTINF:-1 tvg-id="tiengiang" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/tiengiang.jpg",TIỀN GIANG
 http://123.25.238.45:1935/live/thtg/chunklist_w1260403993.m3u8
 #EXTINF:-1 tvg-id="longan" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/longan.jpg",LONG AN
-http://103.90.220.236/la34/tvlive-transmux.m3u8
+https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
 #EXTINF:-1 tvg-id="danang1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/danang1.jpg",ĐÀ NẴNG 1
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/playlist.m3u8
 #EXTINF:-1 tvg-id="danang1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/danang2.jpg",ĐÀ NẴNG 2
