@@ -31,6 +31,8 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HAUGIANG-SD-ABR/HTV-ABR/HAUGIANG-SD-7
 #https://60acee235f4d5.streamlock.net/HGTV/d1/playlist.m3u8
 #EXTINF:-1 tvg-id="kiengiang1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://n-tv.github.io/logo/tinh/kiengiang.jpg",KIÊN GIANG
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/KIENGIANG-SD-ABR/HTV-ABR/KIENGIANG-SD-720p/chunks.m3u8
+#EXTINF:-1 tvg-chno="152" tvg-id="152" group-title="TINH" tvg-logo="https://n-tv.github.io/logo/tinh/hanoi1.jpg",HÀ NỘI 1
+https://live-ali2.tv360.vn/manifest/Ha_Noi_1_SPR/playlist_480p1p6.m3u8
 #HTV
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://n-tv.github.io/logo/htv/htv1.jpg",HTV1
 https://drm-livecdn.hplus.com.vn/htvonline/htv1.720p.nimble.tms/playlist.m3u8
@@ -52,15 +54,20 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-DULICH-HD-1080p/chunks.m3u8
 #THIẾT YẾU
 #EXTINF:-1 tvg-id="nhandan" group-title="THIẾT YẾU" tvg-logo="https://n-tv.github.io/logo/quochoi/nhandan.jpg",NHÂN DÂN TV
-https://video.nhandan.thienvietjsc.net/live/nhandan720/playlist.m3u8
+#https://video.nhandan.thienvietjsc.net/live/nhandan720/playlist.m3u8
+https://live-ali2.tv360.vn/manifest/Nhan_Dan_SPR/playlist_480p1p6.m3u8
 #EXTINF:-1 tvg-id="quochoi" group-title="THIẾT YẾU" tvg-logo="https://n-tv.github.io/logo/quochoi/quochoi.png",QUỐC HỘI
-https://16371213858134.vnns.net/quochoitv-abr-1028/tek4tv10281690202770/720p/chunks.m3u8
+#https://16371213858134.vnns.net/quochoitv-abr-1028/tek4tv10281690202770/720p/chunks.m3u8
+https://live-ali2.tv360.vn/manifest/Quoc_Hoi_HD/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" group-title="THIẾT YẾU" tvg-logo="https://n-tv.github.io/logo/quochoi/qpvn.jpg",QUỐC PHÒNG VIỆT NAM
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/QPTV-SD-ABR/HTV-ABR/QPTV-SD-720p/chunks.m3u8
+#https://drm-livecdn.hplus.com.vn/CDN-FPT02/QPTV-SD-ABR/HTV-ABR/QPTV-SD-720p/chunks.m3u8
+https://live-ali2.tv360.vn/manifest/QPVN_HD/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="antvhd" group-title="THIẾT YẾU" tvg-logo="https://n-tv.github.io/logo/quochoi/antv.jpg",AN NINH TV
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/ANTV-SD-ABR/HTV-ABR/ANTV-SD-720p/chunks.m3u8
-#EXTINF:-1 tvg-id="ttxvnhd" group-title="THIẾT YẾU" tvg-logo="https://n-tv.github.io/logo/quochoi/ttxvn.jpg",VNEWS - TTXVN
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/TTXVN-SD-ABR/HTV-ABR/TTXVN-SD-720p/chunks.m3u8
+#https://drm-livecdn.hplus.com.vn/CDN-FPT02/ANTV-SD-ABR/HTV-ABR/ANTV-SD-720p/chunks.m3u8
+https://live-ali2.tv360.vn/manifest/ANTV_SPR/playlist_360p.m3u8
+#EXTINF:-1 tvg-id="ttxvnhd" group-title="THIẾT YẾU" tvg-logo="https://n-tv.github.io/logo/quochoi/ttxvn.jpg",VNEWS
+#https://drm-livecdn.hplus.com.vn/CDN-FPT02/TTXVN-SD-ABR/HTV-ABR/TTXVN-SD-720p/chunks.m3u8
+https://live-ali2.tv360.vn/manifest/Vnews/playlist_480p1p.m3u8
 #SCTV
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://n-tv.github.io/logo/sctv/sctvth.jpg",SCTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 Linux;Android 9 ExoPlayerLib/2.13.3
