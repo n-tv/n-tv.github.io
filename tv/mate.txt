@@ -153,6 +153,7 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/index.m3u8|Referer=http://s
 https://live-ali2.tv360.vn/manifest/VTC1_HD/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vtc2" group-title="VTC" tvg-logo="https://n-tv.github.io/logo/vtc/vtc2.png",VTC2
 https://live-ali2.tv360.vn/manifest/VTC2_SPR_SD/playlist_480p.m3u8
+#https://tiemnhazunn.click/vieon/vieon.php?id=vtc2-reidius-tv
 #EXTINF:-1 tvg-id="vtc3hd" group-title="VTC" tvg-logo="https://n-tv.github.io/logo/vtc/vtc3.png",VTC3
 https://live-ali2.tv360.vn/manifest/VTC3_HD/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="vtc4hd" group-title="VTC" tvg-logo="https://n-tv.github.io/logo/vtc/vtc4hd.jpg",VTC4
