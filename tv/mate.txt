@@ -173,7 +173,7 @@ https://live2onsport.vtvcab.vn/dash/VTV3_HD/m20_index.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://n-tv.github.io/logo/vtv/vtv4.jpg",VTV4
 https://live2onsport.vtvcab.vn/dash/VTV4_HD/m20_index.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://n-tv.github.io/logo/vtv/vtv5.jpg",VTV5
-https://live-zlr1.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-720P-167M.m3u8
+https://live-ali2.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-720P-167M.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://n-tv.github.io/logo/vtv/vtv6.jpg",VTV CẦN THƠ
 https://live2onsport.vtvcab.vn/dash/VTV6_HD/m20_index.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://n-tv.github.io/logo/vtv/vtv7.png",VTV7
