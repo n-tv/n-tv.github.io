@@ -245,8 +245,8 @@ https:///e3.endpoint.cdn.sctvonline.vn/hls/vtvcab5/index.m3u8?kiptv|Referer=http
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab8/index.m3u8?kiptv|Referer=http://sctvonline.vn/
 ###EXTINF:-1 tvg-chno="59" tvg-id="59" group-title="VTVCAB" tvg-logo="https://n-tv.github.io/logo/vtvcab/on-info.jpg",ON INFO
 ##https://code.antmediatv.xyz/getplay/6c7000750727bdec7de6ea1831b3f5efcd4a0e5cb87f534f54c88571da85a46d92/vieon2/vtvcab9-info-tv/playlist.m3u8
-###EXTINF:-1 tvg-chno="60" tvg-id="60" group-title="VTVCAB" tvg-logo="https://n-tv.github.io/logo/vtvcab/on-cine.jpg",ON CINE
-##https://live-ali2.tv360.vn/manifest/VTVCab10_SPR/playlist_480p1p7.m3u8
+#EXTINF:-1 tvg-id="vtvcab10hd" group-title="VTVCAB" tvg-logo="https://n-tv.github.io/logo/vtvcab/on-cine.jpg",ON CINE
+https://live-ali2.tv360.vn/manifest/VTVCab10_SPR/playlist_480p1p7.m3u8
 ###EXTINF:-1 tvg-chno="61" tvg-id="61" group-title="VTVCAB" tvg-logo="https://n-tv.github.io/logo/vtvcab/on-style.jpg",ON STYLE
 ##https://code.antmediatv.xyz/getplay/6c7000750727bdec7de6ea1831b3f5efcd4a0e5cb87f534f54c88571da85a46d92/vieon2/vtvcab12-style-tv/playlist.m3u8
 ###EXTINF:-1 tvg-chno="62" tvg-id="62" group-title="VTVCAB" tvg-logo="https://n-tv.github.io/logo/vtvcab/on-music.jpg",ON MUSIC
@@ -261,8 +261,8 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab8/index.m3u8?kiptv|Referer=http:
 ##https://code.antmediatv.xyz/getplay/6c7000750727bdec7de6ea1831b3f5efcd4a0e5cb87f534f54c88571da85a46d92/mytv/201/hd.m3u8
 ###EXTINF:-1 tvg-chno="67" tvg-id="67" group-title="VTVCAB" tvg-logo="https://n-tv.github.io/logo/vtvcab/on-vfamily.jpg",ON VFAMILY
 ##https://code.antmediatv.xyz/getplay/6c7000750727bdec7de6ea1831b3f5efcd4a0e5cb87f534f54c88571da85a46d92/onplus/VFAMILY/m20_index.m3u8
-###EXTINF:-1 tvg-chno="68" tvg-id="68" group-title="VTVCAB" tvg-logo="https://n-tv.github.io/logo/vtvcab/on-kids.jpg", ON KIDS
-##https://live-ali2.tv360.vn/manifest/VTVCab21/playlist_1080p.m3u8
+#EXTINF:-1 tvg-id="vtvcab21hd" group-title="VTVCAB" tvg-logo="https://n-tv.github.io/logo/vtvcab/on-kids.jpg", ON KIDS
+https://live-ali2.tv360.vn/manifest/VTVCab21/playlist_1080p.m3u8
 ###EXTINF:-1 tvg-chno="69" tvg-id="69" group-title="VTVCAB" tvg-logo="https://n-tv.github.io/logo/vtvcab/on-life.jpg", ON LIFE
 ##https://code.antmediatv.xyz/getplay/6c7000750727bdec7de6ea1831b3f5efcd4a0e5cb87f534f54c88571da85a46d92/vieon2/vtvcab22-life-tv/playlist.m3u8
 ###EXTINF:-1 tvg-chno="70" tvg-id="70" group-title="VTVCAB" tvg-logo="https://n-tv.github.io/logo/vtvcab/on-golf.jpg", ON GOLF
