@@ -75,7 +75,7 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="nhandan" group-title="THIẾT YẾU" tvg-logo="https://n-tv.github.io/logo/quochoi/nhandan.jpg",NHÂN DÂN TV
 https://video.nhandan.thienvietjsc.net/live/nhandan720/playlist.m3u8
 #EXTINF:-1 tvg-id="quochoi" group-title="THIẾT YẾU" tvg-logo="https://n-tv.github.io/logo/quochoi/quochoi.png",QUỐC HỘI
-https://16371213858134.vnns.net/quochoitv-abr-1028/tek4tv10281690202770/720p/chunks.m3u8
+https://cloudstreamqh.tek4tv.vn/live/quochoitv_720p.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" group-title="THIẾT YẾU" tvg-logo="https://n-tv.github.io/logo/quochoi/qpvn.jpg",QUỐC PHÒNG VIỆT NAM
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/QPTV-SD-ABR/HTV-ABR/QPTV-SD-720p/chunks.m3u8
 #EXTINF:-1 tvg-id="antvhd" group-title="THIẾT YẾU" tvg-logo="https://n-tv.github.io/logo/quochoi/antv.jpg",AN NINH TV
